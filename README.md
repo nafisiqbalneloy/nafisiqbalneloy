@@ -9,7 +9,7 @@
 
 ### 💻 Languages and Tools:
 
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
@@ -40,5 +40,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisiqbalneloy&layout=compact&theme=radical" alt="Top Languages" style="margin-bottom:
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisiqbalneloy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafisiqbalneloy&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
