@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Nafis Iqbal Neloy.</h1>
+<h1 align="center">Hello, I am Nafis Iqbal Neloy</h1>
+<p align="center">Currently studying CSE</p>
 
 ---
 
@@ -16,9 +17,10 @@
 
 ---
 
-### 🤝 Connect with me:
+### 📫 How to reach me:
 
 <p align="left">
+  <strong>Email:</strong> <a href="mailto:nafisneloy0509@gmail.com">nafisneloy0509@gmail.com</a><br/>
   <a href="https://www.linkedin.com/in/nafisiqbalneloy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
@@ -26,10 +28,8 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats (Minimalistic)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisiqbalneloy&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nafisiqbalneloy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafisiqbalneloy&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs" alt="GitHub Stats"/>
 </p>
-
