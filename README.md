@@ -19,8 +19,13 @@
 
 ### 📫 How to reach me:
 
+- 📧 Email: [nafisneloy0509@gmail.com](mailto:nafisneloy0509@gmail.com)
+
+---
+
+### 🤝 Connect with me:
+
 <p align="left">
-  <strong>Email:</strong> <a href="mailto:nafisneloy0509@gmail.com">nafisneloy0509@gmail.com</a><br/>
   <a href="https://www.linkedin.com/in/nafisiqbalneloy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
@@ -31,7 +36,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisiqbalneloy&layout=compact&theme=radical" alt="Top Languages" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisiqbalneloy&layout=compact&theme=radical" alt="Top Languages" style="margin-bottom: 10px;" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=nafisiqbalneloy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
