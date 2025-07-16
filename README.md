@@ -1,6 +1,10 @@
 <h1 align="center">Hello, I am Nafis Iqbal Neloy</h1>
 <p align="center">Currently studying CSE</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nafisiqbalneloy&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 💻 Languages and Tools:
@@ -36,7 +40,5 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisiqbalneloy&layout=compact&theme=radical" alt="Top Languages" style="margin-bottom: 10px;" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nafisiqbalneloy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisiqbalneloy&layout=compact&theme=radical" alt="Top Languages" style="margin-bottom:
+
