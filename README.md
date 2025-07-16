@@ -31,7 +31,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisiqbalneloy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisiqbalneloy&layout=compact&theme=radical" alt="Top Languages" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=nafisiqbalneloy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
