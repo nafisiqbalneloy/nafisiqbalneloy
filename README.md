@@ -1,49 +1,42 @@
-<h1 align="center">Hello, I am Nafis Iqbal Neloy</h1>
-<p align="center">Currently studying CSE</p>
+# Hey, I'm Nafis Iqbal Neloy 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nafisiqbalneloy&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+### `CSE Undergraduate` · `AI & Data Science` · `Computer Vision`
 
----
+I’m a Computer Science and Engineering undergraduate at **United International University (UIU)**, interested in building intelligent systems and exploring how AI can solve real-world problems.
 
-### 💻 Languages and Tools:
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-</p>
+My primary interests are **Computer Vision and Image Processing**, alongside Machine Learning and Deep Learning. I’m building my foundation through coursework, hands-on projects, and research-oriented learning.
 
 ---
 
-### 📫 How to reach me:
+### 🧠 Areas of Interest
 
-- 📧 Email: [nafisneloy0509@gmail.com](mailto:nafisneloy0509@gmail.com)
+- 👁️ Computer Vision & Image Processing
+- 🤖 Machine Learning & Deep Learning
+- 🔬 AI research and experimentation
+- 🛠️ Practical software development
+
+### 🧰 Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,pytorch&theme=dark" alt="C, C++, Java, Python, JavaScript, HTML, CSS, MySQL and PyTorch"/>
+</p>
+
+### 🚀 Projects & Learning
+
+- 🖼️ **Image Classification** — Exploring deep learning through a garbage classification project.
+- 💻 **Data Structures & Algorithms** — Practicing problem-solving with C and C++.
+- 🌐 **Web Development** — Building projects with JavaScript, HTML and CSS.
+- 📚 **Continuous Learning** — Strengthening my foundations in AI, Computer Vision and software engineering.
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with people who work in AI, Computer Vision, Image Processing and software development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nafisiqbalneloy)
 
 ---
 
-### 🤝 Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nafisiqbalneloy" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisiqbalneloy&layout=compact&theme=radical" alt="Top Languages" />
+  <i>Learning continuously. Building thoughtfully. Exploring what's possible with AI.</i>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafisiqbalneloy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
