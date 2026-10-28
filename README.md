@@ -1,4 +1,4 @@
-# Hey, I'm Nafis Iqbal Neloy 👋
+# Hey, I'm Nafis Iqbal Neloy 
 
 ### `CSE Undergraduate` · `AI & Data Science` · `Computer Vision`
 
@@ -21,16 +21,11 @@ My primary interests are **Computer Vision and Image Processing**, alongside Mac
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,pytorch&theme=dark" alt="C, C++, Java, Python, JavaScript, HTML, CSS, MySQL and PyTorch"/>
 </p>
 
-### 🚀 Projects & Learning
 
-- 🖼️ **Image Classification** — Exploring deep learning through a garbage classification project.
-- 💻 **Data Structures & Algorithms** — Practicing problem-solving with C and C++.
-- 🌐 **Web Development** — Building projects with JavaScript, HTML and CSS.
-- 📚 **Continuous Learning** — Strengthening my foundations in AI, Computer Vision and software engineering.
 
-### 🤝 Let's Connect
+###  Let's Connect
 
-I'm always interested in connecting with people who work in AI, Computer Vision, Image Processing and software development.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nafisiqbalneloy)
