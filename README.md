@@ -49,6 +49,16 @@ class Neloy:
   <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,java,js,nodejs,express,html,css,mysql,git,github,linux,vscode&theme=dark" alt="Python, PyTorch, C++, C, Java, JavaScript, Node.js, Express, HTML, CSS, MySQL, Git, GitHub, Linux, VS Code"/>
 </p>
 
+## 🐍 My contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafisiqbalneloy/nafisiqbalneloy/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafisiqbalneloy/nafisiqbalneloy/output/github-snake.svg">
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/nafisiqbalneloy/nafisiqbalneloy/output/github-snake.svg">
+  </picture>
+</p>
+
 ## 🎮 Play a game
 
 <!-- GAME:START -->
