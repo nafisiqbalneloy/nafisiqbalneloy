@@ -59,28 +59,6 @@ class Neloy:
   </picture>
 </p>
 
-## 🎮 Play a game
-
-<!-- GAME:START -->
-<div align="center">
-
-<img src="assets/game/banner.svg" alt="Tic-Tac-Toe" width="640">
-
-Your move! You are ❌. Click a glowing square (it opens a pre-filled issue, just press **Submit new issue**).
-
-| | | |
-|:-:|:-:|:-:|
-| [<img src="assets/game/empty-1.svg" width="104" height="104" alt="Play square 1">](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C0&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [<img src="assets/game/empty-2.svg" width="104" height="104" alt="Play square 2">](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C1&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [<img src="assets/game/empty-3.svg" width="104" height="104" alt="Play square 3">](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C2&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) |
-| [<img src="assets/game/empty-4.svg" width="104" height="104" alt="Play square 4">](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C3&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [<img src="assets/game/empty-5.svg" width="104" height="104" alt="Play square 5">](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C4&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [<img src="assets/game/empty-6.svg" width="104" height="104" alt="Play square 6">](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C5&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) |
-| [<img src="assets/game/empty-7.svg" width="104" height="104" alt="Play square 7">](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C6&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [<img src="assets/game/empty-8.svg" width="104" height="104" alt="Play square 8">](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C7&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [<img src="assets/game/empty-9.svg" width="104" height="104" alt="Play square 9">](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C8&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) |
-
-<sub>Rounds played: **0** · Visitors won: **0** · Bot won: **0** · Draws: **0**</sub>
-
-<sub>Powered by GitHub Actions: every move is an issue that a workflow turns into a commit.</sub>
-
-</div>
-<!-- GAME:END -->
-
 ## 🤝 Let's connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-nafisiqbalneloy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nafisiqbalneloy)
