@@ -49,6 +49,28 @@ class Neloy:
   <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,java,js,nodejs,express,html,css,mysql,git,github,linux,vscode&theme=dark" alt="Python, PyTorch, C++, C, Java, JavaScript, Node.js, Express, HTML, CSS, MySQL, Git, GitHub, Linux, VS Code"/>
 </p>
 
+## 🎮 Play a game
+
+<!-- GAME:START -->
+<div align="center">
+
+### 🎮 Play Tic-Tac-Toe with me
+
+Your move! You are ❌. Click a numbered square to play (it opens a pre-filled issue, just press **Submit new issue**).
+
+| | | |
+|:-:|:-:|:-:|
+| [1️⃣](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C0&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [2️⃣](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C1&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [3️⃣](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C2&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) |
+| [4️⃣](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C3&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [5️⃣](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C4&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [6️⃣](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C5&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) |
+| [7️⃣](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C6&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [8️⃣](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C7&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) | [9️⃣](https://github.com/nafisiqbalneloy/nafisiqbalneloy/issues/new?title=ttt%7Cmove%7C8&body=Just%20press%20%22Submit%20new%20issue%22.%20Please%20do%20not%20edit%20the%20title.) |
+
+<sub>Rounds played: **0** · Visitors won: **0** · Bot won: **0** · Draws: **0**</sub>
+
+<sub>Powered by GitHub Actions: every move is an issue that a workflow turns into a commit.</sub>
+
+</div>
+<!-- GAME:END -->
+
 ## 🤝 Let's connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-nafisiqbalneloy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nafisiqbalneloy)
