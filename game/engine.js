@@ -25,6 +25,14 @@ function winner(board) {
   return null;
 }
 
+function winLine(board) {
+  for (const line of LINES) {
+    const [a, b, c] = line;
+    if (board[a] && board[a] === board[b] && board[a] === board[c]) return line;
+  }
+  return [];
+}
+
 function parseCommand(title) {
   const m = /^ttt\|(?:(move)\|([0-8])|(new))$/.exec(String(title || '').trim());
   if (!m) return null;
@@ -125,19 +133,25 @@ function issueLink(label, title) {
   return `[${label}](https://github.com/${REPO}/issues/new?title=${t}&body=${body})`;
 }
 
-const NUM = ['1️⃣', '2️⃣', '3️⃣', '4️⃣', '5️⃣', '6️⃣', '7️⃣', '8️⃣', '9️⃣'];
+const IMG = 'assets/game';
 
 function render(state) {
   const playing = state.status === 'playing';
+  const line = winLine(state.board);
   const cell = (i) => {
-    if (state.board[i] === 'X') return '❌';
-    if (state.board[i] === 'O') return '⭕';
-    return playing ? issueLink(NUM[i], `ttt|move|${i}`) : '▫️';
+    const mark = state.board[i];
+    if (mark) {
+      const kind = mark === 'X' ? 'x' : 'o';
+      const file = line.includes(i) ? `${kind}-win` : kind;
+      return `<img src="${IMG}/${file}.svg" width="104" height="104" alt="${mark}">`;
+    }
+    if (!playing) return `<img src="${IMG}/blank.svg" width="104" height="104" alt="empty">`;
+    return issueLink(`<img src="${IMG}/empty-${i + 1}.svg" width="104" height="104" alt="Play square ${i + 1}">`, `ttt|move|${i}`);
   };
   const rows = [0, 3, 6].map((r) => `| ${cell(r)} | ${cell(r + 1)} | ${cell(r + 2)} |`);
   const table = ['| | | |', '|:-:|:-:|:-:|', ...rows].join('\n');
   const headline = {
-    playing: 'Your move! You are ❌. Click a numbered square to play (it opens a pre-filled issue, just press **Submit new issue**).',
+    playing: 'Your move! You are ❌. Click a glowing square (it opens a pre-filled issue, just press **Submit new issue**).',
     won: '🎉 **A visitor won this round.**',
     lost: '🤖 **The bot won this round.**',
     draw: '🤝 **This round was a draw.**',
@@ -151,7 +165,7 @@ function render(state) {
   return [
     '<div align="center">',
     '',
-    '### 🎮 Play Tic-Tac-Toe with me',
+    `<img src="${IMG}/banner.svg" alt="Tic-Tac-Toe" width="640">`,
     '',
     headline,
     '',
@@ -178,4 +192,4 @@ function inject(readme, state) {
   return `${readme.slice(0, a + START.length)}\n${render(state)}\n${readme.slice(b)}`;
 }
 
-module.exports = { newState, winner, parseCommand, botMove, apply, render, inject, START, END };
+module.exports = { newState, winner, winLine, parseCommand, botMove, apply, render, inject, START, END };

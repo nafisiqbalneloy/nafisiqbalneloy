@@ -71,9 +71,20 @@ test('new game only after the previous one ends and keeps stats', () => {
 test('render links empty squares only while playing', () => {
   const html = render(newState());
   assert.equal((html.match(/issues\/new\?title=ttt%7Cmove%7C/g) || []).length, 9);
+  assert.equal((html.match(/assets\/game\/empty-\d\.svg/g) || []).length, 9);
+  assert.match(html, /assets\/game\/banner\.svg/);
   const over = { ...newState(), status: 'draw' };
   assert.equal((render(over).match(/ttt%7Cmove/g) || []).length, 0);
   assert.match(render(over), /ttt%7Cnew/);
+});
+
+test('winning squares use the win animation', () => {
+  const s = newState();
+  s.board = ['X', 'X', 'X', 'O', 'O', '', '', '', ''];
+  s.status = 'won';
+  const html = render(s);
+  assert.equal((html.match(/x-win\.svg/g) || []).length, 3);
+  assert.equal((html.match(/assets\/game\/o\.svg/g) || []).length, 2);
 });
 
 test('inject replaces only the marked region', () => {
