@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://nafisiqbalneloy.github.io"><b>Portfolio</b></a> ·
-  <a href="https://www.linkedin.com/in/nafisiqbalneloy/"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/nafisiqbalneloy/"><b>LinkedIn</b></a> ·
+  <a href="https://www.instagram.com/neelfish/"><b>Instagram</b></a>
 </p>
 
 I'm a CSE student at United International University (UIU), Dhaka, majoring in AI and Data Science. My research interest is **AI security**, in particular **data poisoning in retrieval-augmented generation (RAG)**. Next to that I build full-stack and ML projects, and I work as a Sales Executive at a software startup.
@@ -33,11 +34,18 @@ I am interested in AI security, mainly how retrieval-augmented generation (RAG) 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nafisiqbalneloy/GaanBox"><b>GaanBox</b></a><br/>
-      Share a song and the story behind it, with likes and reports.<br/>
-      <sub>JavaScript · Node.js</sub>
+      <a href="https://github.com/nafisiqbalneloy/meteor-dodge"><b>Meteor Dodge</b></a> (<a href="https://nafisiqbalneloy.github.io/meteor-dodge/">play</a>)<br/>
+      A small retro space arcade game that runs in the browser, on PC and phone.<br/>
+      <sub>JavaScript · HTML · CSS</sub>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/nafisiqbalneloy/CropVerse"><b>CropVerse</b></a><br/>
+      Farmer-to-buyer marketplace with crop listings, chat, disease reporting and price trends.<br/>
+      <sub>Node.js · Express · MySQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <a href="https://github.com/nafisiqbalneloy/nafisiqbalneloy.github.io"><b>Portfolio website</b></a><br/>
       My personal site: projects, experience and education.<br/>
       <sub>HTML · CSS · JavaScript</sub>
