@@ -4,15 +4,20 @@
 
 <p align="center">
   <a href="https://nafisiqbalneloy.github.io"><b>Portfolio</b></a> ·
-  <a href="https://www.linkedin.com/in/nafisiqbalneloy/"><b>LinkedIn</b></a> ·
-  <a href="https://nafisiqbalneloy.github.io/meteor-dodge/"><b>Play Meteor Dodge</b></a>
+  <a href="https://www.linkedin.com/in/nafisiqbalneloy/"><b>LinkedIn</b></a>
+</p>
+
+<p align="center">
+  CSE student exploring <b>AI security</b>, mainly <b>data poisoning in multilingual RAG systems</b> (English, Bangla, Banglish).<br/>
+  <sub>Still early and still learning.</sub>
 </p>
 
 ## Right now
 
 - 💼 **Sales Executive** at [Intelio Labs](https://inteliolabs.com/), a software startup (remote)
 - 🎓 **CSE student** at United International University, Dhaka, majoring in AI and Data Science
-- 🔨 **Building** full-stack apps and small games, one project at a time
+- 🔬 **Researching** AI security for my final year project, with a group of five (literature review stage)
+- 🔨 **Building** full-stack and ML projects, one at a time
 - 🎯 **Aiming for** AI engineering, so I'm learning more about RAG and applied ML
 
 ## Projects
@@ -37,8 +42,8 @@
       <sub>JavaScript · Node.js</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/nafisiqbalneloy/meteor-dodge"><b>Meteor Dodge</b></a><br/>
-      Retro space arcade game that runs in the browser, on PC and phone.<br/>
+      <a href="https://github.com/nafisiqbalneloy/nafisiqbalneloy.github.io"><b>Portfolio website</b></a><br/>
+      My personal site: projects, experience and education.<br/>
       <sub>HTML · CSS · JavaScript</sub>
     </td>
   </tr>
