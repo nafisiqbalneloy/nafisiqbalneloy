@@ -14,7 +14,7 @@ I'm a CSE student at United International University (UIU), majoring in AI and D
 - [**CampusCruise**](https://github.com/nafisiqbalneloy/CampusCruise): campus bike ride-sharing app for UIU students
 - [**Garbage Classification**](https://github.com/nafisiqbalneloy/Garbage-Classification-Using-Deep-Learning): EfficientNet-B6 waste image classifier with a Gradio demo
 - [**GaanBox**](https://github.com/nafisiqbalneloy/GaanBox): share a song and the story behind it
-- [**Meteor Dodge**](https://github.com/nafisiqbalneloy/meteor-dodge): a small dodging game
+- [**Meteor Dodge**](https://github.com/nafisiqbalneloy/meteor-dodge): retro space arcade game, [play it in the browser](https://nafisiqbalneloy.github.io/meteor-dodge/)
 
 **Skills**
 
