@@ -61,7 +61,7 @@ for ci, ch in enumerate(word):
                     o.append(f'<g class="b" style="--dx:{dx}px;--dy:{dy}px;--r:{rot}deg;animation-delay:{d}s;transform-box:fill-box;transform-origin:center"><rect x="{x:.1f}" y="{y:.1f}" width="{s}" height="{s}" rx="1.2" fill="{t}"/><rect x="{x:.1f}" y="{y+s-1.6:.1f}" width="{s}" height="1.6" rx=".8" fill="#000" opacity=".22"/><ellipse cx="{x+s/2:.1f}" cy="{y+s/2-.6:.1f}" rx="{s*0.28:.1f}" ry="{s*0.18:.1f}" fill="#fff" opacity=".35"/><rect class="sh" style="animation-delay:{sd}s" x="{x:.1f}" y="{y:.1f}" width="{s}" height="{s}" rx="1.2"/></g>')
     cx += w + gap
 sy = y0 + 7 * cell + 28
-line = "CSE @ UIU  ·  AI AND DATA SCIENCE  ·  AI SECURITY"
+line = "INTELIO LABS  ·  AI AND DATA SCIENCE  ·  AI SECURITY"
 adv = 7.2 + 3          # 12px monospace glyph + letter-spacing
 o.append(f'<text class="sub" x="{W/2}" y="{sy}" text-anchor="middle" xml:space="preserve">{line}</text>')
 o.append(f'<rect class="cur" x="{W/2 + len(line)*adv/2 + 2:.1f}" y="{sy-10}" width="7" height="12"/>')
