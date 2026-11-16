@@ -113,7 +113,7 @@ const bot = [
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="A little pixel bot walking across my GitHub contribution graph">
 <style>${css}</style>
 <rect class="card" width="${W}" height="${H}" rx="12"/>
-<text class="t" x="${PADX}" y="28">${total} CONTRIBUTIONS IN THE LAST YEAR</text>
+<text class="t" x="${PADX}" y="28">${total} PUBLIC CONTRIBUTIONS IN THE LAST YEAR</text>
 ${cells}
 <g class="walk">${bot}</g>
 </svg>`;
