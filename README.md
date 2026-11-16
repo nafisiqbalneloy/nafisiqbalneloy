@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nafisiqbalneloy/nafisiqbalneloy/main/assets/lego-banner.svg?v=3" alt="Nafis Iqbal Neloy" width="100%"/>
+  <img src="https://raw.githubusercontent.com/nafisiqbalneloy/nafisiqbalneloy/main/assets/lego-banner.svg?v=4" alt="Nafis Iqbal Neloy" width="100%"/>
 </p>
 
 <p align="center">

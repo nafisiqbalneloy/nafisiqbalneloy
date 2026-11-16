@@ -81,13 +81,13 @@ def fish(y, flip, delay, col):
                 if c < 3: tail += rect
                 else: cells += rect
     eye = f'<rect x="{8*px}" y="{2*px}" width="{px}" height="{px}" fill="#161a23"/>'
-    belly = f'<rect x="{4*px}" y="{3*px}" width="{4*px}" height="{px}" fill="#ffc78f" opacity=".8"/>'
+    belly = f'<rect x="{4*px}" y="{3*px}" width="{4*px}" height="{px}" fill="#bfe3ff" opacity=".8"/>'
     tr = f'translate({W},{y}) scale(-1,1)' if flip else f'translate(0,{y})'
     return f'<g transform="{tr}"><g class="sw" style="animation-delay:{delay}s"><g class="bob"><g class="tail">{tail}</g>{cells}{belly}{eye}</g></g></g>'
-o.append(fish(110, False, -2, "#ff8a2b"))
-o.append(fish(118, True, -10, "#ffa04d"))
+o.append(fish(110, False, -2, "#2f9bff"))
+o.append(fish(118, True, -10, "#5cb8ff"))
 for bx, bd in [(150,0),(430,1.3),(700,2.4)]:
-    o.append(f'<circle class="bub" style="animation-delay:{bd}s" cx="{bx}" cy="132" r="2" fill="none" stroke="#ff9a3d" stroke-width="1"/>')
+    o.append(f'<circle class="bub" style="animation-delay:{bd}s" cx="{bx}" cy="132" r="2" fill="none" stroke="#5cb8ff" stroke-width="1"/>')
 sy = y0 + 7 * cell + 28
 line = "CSE @ UIU  ·  AI AND DATA SCIENCE  ·  INTELIO LABS"
 adv = 7.2 + 3          # 12px monospace glyph + letter-spacing
