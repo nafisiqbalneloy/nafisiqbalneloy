@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Update contribution tracker
 
 on:
   schedule:
@@ -6,23 +6,26 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/snake.yml"]
+    paths: [".github/workflows/tracker.yml", "scripts/make-tracker.mjs"]
 
 permissions:
   contents: write
 
 jobs:
-  snake:
+  tracker:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
-        id: snake
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          node-version: 22
+
+      - name: Build tracker.svg
+        run: node scripts/make-tracker.mjs "${{ github.repository_owner }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
