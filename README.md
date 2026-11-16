@@ -9,19 +9,12 @@
 
 I'm a CSE student at United International University (UIU), Dhaka, majoring in AI and Data Science. My research interest is **AI security**, in particular **data poisoning in retrieval-augmented generation (RAG)**. Next to that I build full-stack and ML projects, and I work as a Sales Executive at a software startup.
 
-## Research
+## Research: AI security, data poisoning in RAG
 
-> **Do existing RAG poisoning defenses work equally well in English, Bangla and Banglish?**
+I am interested in AI security, mainly how retrieval-augmented generation (RAG) systems can be poisoned and how to detect it, including in Bangla and Banglish.
 
-A RAG system answers questions using documents it retrieves, so a poisoned document can mislead it. Most defenses are tested only in English, but the same word can be written three ways, which may change what gets retrieved and what gets caught:
-
-<p align="center">
-  <b>good</b> &nbsp;·&nbsp; <b>ভালো</b> &nbsp;·&nbsp; <b>bhalo</b><br/>
-  <sub>English &nbsp;·&nbsp; Bangla &nbsp;·&nbsp; Banglish</sub>
-</p>
-
-- **Status:** final year design project with a group of five, at the literature review stage. The topic, datasets, attack and defense are still being chosen with our supervisor.
-- **Areas:** AI security, adversarial machine learning, multilingual and low-resource NLP.
+- **What I am doing:** final year design project with a group of five, currently at the literature review stage.
+- **Areas:** AI security, adversarial machine learning, multilingual NLP.
 
 ## Projects
 
