@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://nafisiqbalneloy.github.io"><b>Portfolio</b></a> ·
   <a href="https://www.linkedin.com/in/nafisiqbalneloy/"><b>LinkedIn</b></a> ·
-  <a href="https://www.instagram.com/neelfish/"><b>Instagram</b></a>
+  <a href="https://www.instagram.com/neelfish/"><b>Instagram</b></a> ·
+  <a href="mailto:nafisneloy0509@gmail.com"><b>Gmail</b></a>
 </p>
 
 I'm a CSE student at United International University (UIU), Dhaka, majoring in AI and Data Science. My research interest is **AI security**, in particular **data poisoning in retrieval-augmented generation (RAG)**. Next to that I build full-stack and ML projects, and I work as a Sales Executive at a software startup.
