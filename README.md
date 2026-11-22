@@ -56,7 +56,7 @@ I am interested in AI security, mainly how retrieval-augmented generation (RAG) 
 
 ## Work and study
 
-- 💼 **Sales Executive**, [Intelio Labs](https://inteliolabs.com/) (software startup, remote), since November 2026
+- 💼 **Software Sales Executive**, [Intelio Labs](https://inteliolabs.com/) (software startup, remote), since November 2026
 - 🎓 **B.Sc. in CSE**, United International University, since 2023
 - 🎯 **Next:** moving towards AI engineering, learning more about RAG and applied ML
 
